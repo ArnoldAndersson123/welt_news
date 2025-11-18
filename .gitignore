@@ -6,7 +6,6 @@ __pycache__/
 .Python
 
 # Scraper output
-data/
 *.log
 
 # Virtual environment
